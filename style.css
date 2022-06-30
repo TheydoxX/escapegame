@@ -1,0 +1,89 @@
+*
+{
+    margin:0 auto;
+}
+
+body
+{
+    background-color: #000000;
+    color: aliceblue;
+    font-family: 'VT323', monospace;
+}
+
+
+header
+h1
+{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    color: blueviolet;  
+}
+
+h2 
+{ 
+    color:aqua;
+    font-family: 'VT323', monospace;
+
+}
+
+div
+{
+    text-align: center;
+    padding: 10px;
+}
+
+
+.Introduction img
+{
+    border: 3px solid cyan;
+    border-radius: 10px;
+    width: 1200px;
+    height: 650px;
+}
+
+
+.Choix
+{
+    display: flex;
+    flex-direction: row;
+    font-family: 'VT323', monospace;
+}
+
+.Choix img
+{
+    margin-bottom: 40px;
+    width: 640px;
+    height: 360px;
+    padding: 10px;
+    border: 10px solid cyan;
+    border-radius: 10px;
+}
+
+.Choix a
+{
+    padding: 3px;
+    color: #000000;
+    border: 4px outset purple;
+    border-radius: 5px;
+    background-color: purple ;
+}
+
+span
+{
+    color: blueviolet;
+}
+main a
+{
+    padding: 3px;
+    color: #000000;
+    border: 4px outset purple;
+    border-radius: 5px;
+    background-color: purple ;
+
+}
+ 
+main
+{
+    text-align: center;
+}
